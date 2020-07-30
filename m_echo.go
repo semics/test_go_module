@@ -4,6 +4,6 @@ import (
   "fmt"
 )
 
-func do_echo() {
+func do_echo_m() {
   fmt.Println("welcome to go!")
 }
